@@ -1,5 +1,5 @@
 import random
-from config import locations, actions, when, events, universal_actions
+from story_gen.config import locations, actions, when, events, universal_actions
 
 def generate_story(genre, name):
     """
